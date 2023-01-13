@@ -4,4 +4,4 @@ DiceThower, as the name suggests, is an application in which you can throw basic
 
 The application is written in the Kotlin language and created by Android Studio. I created it to learn the basic functions of Android Studio, Git, and Kotlin.
 
-![DiceThrower](https://user-images.githubusercontent.com/98493408/212281766-2350ee19-788f-443d-a922-e710a8803f21.jpg)
+![DiceThrower](https://user-images.githubusercontent.com/98493408/212282351-ed5143ea-5e11-4b1f-b102-75a9f541cf6e.jpg)
